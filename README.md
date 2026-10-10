@@ -167,11 +167,16 @@ A mini-project focused on Java arrays and strings.
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+<h2 align="center">🐍 Contribution Snake</h2>
 
-<img src="https://raw.githubusercontent.com/somesh552/somesh552/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/somesh552">
+    <img
+      src="https://raw.githubusercontent.com/somesh552/somesh552/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </a>
+</p>
 
 > To enable the snake animation, configure a GitHub Actions workflow in this repository. See the setup instructions below.
 
