@@ -166,24 +166,96 @@ A mini-project focused on Java arrays and strings.
 ---
 
 ## 🐍 Contribution Snake
-  <h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">🐍 Real Snake Gallery | 20+</h2>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/somesh552/somesh552/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/somesh552/somesh552/output/github-snake.svg"
-    />
-    <img
-      alt="Animated GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/somesh552/somesh552/output/github-snake.svg"
-      width="100%"
-    />
-  </picture>
+  Explore a collection of snakes!
+</p>
+
+<div align="center">
+
+<a href="https://www.google.com/search?tbm=isch&q=python+snake">
+<img src="https://images.unsplash.com/photo-1531386151447-fd76ad50012f?w=180&h=140&fit=crop" width="150" alt="Snake 1"/>
+</a>
+<a href="https://www.google.com/search?tbm=isch&q=cobra+snake">
+<img src="https://placehold.co/150x140/17324d/ffffff?text=Cobra" width="150" alt="Cobra"/>
+</a>
+<a href="https://www.google.com/search?tbm=isch&q=green+tree+python">
+<img src="https://placehold.co/150x140/174d32/ffffff?text=Tree+Python" width="150" alt="Green tree python"/>
+</a>
+<a href="https://www.google.com/search?tbm=isch&q=king+cobra">
+<img src="https://placehold.co/150x140/42351c/ffffff?text=King+Cobra" width="150" alt="King cobra"/>
+</a>
+<a href="https://www.google.com/search?tbm=isch&q=ball+python">
+<img src="https://placehold.co/150x140/493b50/ffffff?text=Ball+Python" width="150" alt="Ball python"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.google.com/search?tbm=isch&q=anaconda+snake">
+<img src="https://placehold.co/150x140/285c43/ffffff?text=Anaconda" width="150" alt="Anaconda"/>
+</a>
+<a href="https://www.google.com/search?tbm=isch&q=coral+snake">
+<img src="https://placehold.co/150x140/7c2929/ffffff?text=Coral+Snake" width="150" alt="Coral snake"/>
+</a>
+<a href="https://www.google.com/search?tbm=isch&q=rat+snake">
+<img src="https://placehold.co/150x140/68563d/ffffff?text=Rat+Snake" width="150" alt="Rat snake"/>
+</a>
+<a href="https://www.google.com/search?tbm=isch&q=milk+snake">
+<img src="https://placehold.co/150x140/702f39/ffffff?text=Milk+Snake" width="150" alt="Milk snake"/>
+</a>
+<a href="https://www.google.com/search?tbm=isch&q=boa+constrictor">
+<img src="https://placehold.co/150x140/6b4930/ffffff?text=Boa" width="150" alt="Boa constrictor"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.google.com/search?tbm=isch&q=king+snake">
+<img src="https://placehold.co/150x140/292929/ffffff?text=Kingsnake" width="150" alt="Kingsnake"/>
+</a>
+<a href="https://www.google.com/search?tbm=isch&q=black+mamba">
+<img src="https://placehold.co/150x140/333333/ffffff?text=Black+Mamba" width="150" alt="Black mamba"/>
+</a>
+<a href="https://www.google.com/search?tbm=isch&q=sea+snake">
+<img src="https://placehold.co/150x140/20506b/ffffff?text=Sea+Snake" width="150" alt="Sea snake"/>
+</a>
+<a href="https://www.google.com/search?tbm=isch&q=garter+snake">
+<img src="https://placehold.co/150x140/476343/ffffff?text=Garter+Snake" width="150" alt="Garter snake"/>
+</a>
+<a href="https://www.google.com/search?tbm=isch&q=carpet+python">
+<img src="https://placehold.co/150x140/8a713d/ffffff?text=Carpet+Python" width="150" alt="Carpet python"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.google.com/search?tbm=isch&q=desert+horned+viper">
+<img src="https://placehold.co/150x140/b39a62/ffffff?text=Horned+Viper" width="150" alt="Horned viper"/>
+</a>
+<a href="https://www.google.com/search?tbm=isch&q=reticulated+python">
+<img src="https://placehold.co/150x140/5c5135/ffffff?text=Reticulated+Python" width="150" alt="Reticulated python"/>
+</a>
+<a href="https://www.google.com/search?tbm=isch&q=sidewinder+rattlesnake">
+<img src="https://placehold.co/150x140/876b46/ffffff?text=Rattlesnake" width="150" alt="Rattlesnake"/>
+</a>
+<a href="https://www.google.com/search?tbm=isch&q=milk+snake+red+black">
+<img src="https://placehold.co/150x140/8a3333/ffffff?text=Red+Snake" width="150" alt="Red snake"/>
+</a>
+<a href="https://www.google.com/search?tbm=isch&q=albino+python">
+<img src="https://placehold.co/150x140/e5d8a9/333333?text=Albino+Python" width="150" alt="Albino python"/>
+</a>
+
+</div>
+
+<hr/>
+
+<h3 align="center">🐍 GitHub Contribution Snake</h3>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/somesh552/somesh552/output/github-snake.svg"
+    alt="Animated GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
 
