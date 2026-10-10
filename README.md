@@ -132,14 +132,36 @@ A mini-project focused on Java arrays and strings.
 </div>
 
 ---
-
 ## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=somesh552&theme=discord&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" />
+  </a>
+</p>
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=somesh552&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+<img src="https://img.shields.io/badge/⭐_Starstruck-FFD700?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🦈_Pull_Shark-8A2BE2?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/⚡_Quick_Draw-00C853?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🤝_Team_Player-FF9800?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🚀_Code_Explorer-2196F3?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/💻_Code_Master-673AB7?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🌱_Open_Source-4CAF50?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🔥_Consistency-FF5722?style=for-the-badge&logoColor=white" />
 
 </div>
+
+<br/>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
 
 ---
 
